@@ -2,7 +2,7 @@
 apijson
 Nama : Marisa Agustina
 
-Kelas : TI-3 Semester 3
+Kelas : TI-A Semester 3
 
 NIM : 200602016 
 
